@@ -7,5 +7,4 @@ function setup() {
 
 function draw() {
     stroke(198,157,101);
-    line(292, 1, 465, 261);
 }
