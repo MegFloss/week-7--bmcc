@@ -6,5 +6,6 @@ function setup() {
 }
 
 function draw() {
+    /* Set the color of the stroke. */
     stroke(198,157,101);
 }
